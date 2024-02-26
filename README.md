@@ -1,12 +1,12 @@
 # Kurulum
 
 
-![IMAGE!](images/test.png)
+![[Pasted image 20240226193434.png]]
 
 
 * `https://start.spring.io`  adresinden  ilgili Dependenci leri ekledikten sonra  install edilen dosyayı  idea da açıyoruz
 
-![[images/test.png]]
+![[Pasted image 20240226193359.png]]
 
 * yeni Dependencies eklemek için  `mvnrepository.com` adresinden  ilgili versiyonu seçerek  `pom.xml `de `Dependenciy` kısmına ekleme yaptıktan sonra sağ üstte çıkan `load mavan changes` e tıklayarak sync etmek gerekir.
 
@@ -22,4 +22,9 @@
 ## Annotations
 
 - `@RequestMapping("url")` ile hangi url e cevap vereceğin belirtebiliriz
-- 
+
+
+
+
+
+![](images/Pasted%20image%2020240227004324.png)
