@@ -1,4 +1,4 @@
-﻿# Kurulum
+# Kurulum
 
 
 ![IMAGE!](images/test.png)
