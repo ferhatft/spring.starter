@@ -1,8 +1,8 @@
 package com.turkcell.spring.starter.entities;
 
-public class Product {
-
-//    Model tanımını yönet
+public class Product
+{
+    // Model tanımını yönet
     private int id;
     private String name;
     private double unitPrice;
@@ -40,3 +40,4 @@ public class Product {
         this.stock = stock;
     }
 }
+// Event-Driven Development

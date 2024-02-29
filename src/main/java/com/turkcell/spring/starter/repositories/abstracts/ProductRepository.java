@@ -4,8 +4,8 @@ import com.turkcell.spring.starter.entities.Product;
 
 import java.util.List;
 
-/* Veri işlemlerini yap */
-public interface ProductRepository {
+public interface ProductRepository
+{
     void add(Product product);
     List<Product> getAll();
 }
