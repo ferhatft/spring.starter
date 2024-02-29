@@ -1,6 +1,8 @@
 package com.turkcell.spring.starter.entities;
 
 public class Product {
+
+//    Model tanımını yönet
     private int id;
     private String name;
     private double unitPrice;

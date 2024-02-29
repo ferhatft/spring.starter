@@ -1,4 +1,4 @@
-package com.turkcell.spring.starter.controller;
+package com.turkcell.spring.starter.controllers;
 
 
 import org.springframework.web.bind.annotation.*;
